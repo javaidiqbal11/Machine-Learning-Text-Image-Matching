@@ -1,10 +1,15 @@
-## Machine Learning for Text and Image Matching
+# Machine Learning for Text and Image Matching
 
 This repo could be executed using PyCharm or VS Code 
 
-### Required Runtime
+## Required Runtime
 
 Install Python 3.10 
+
+## Setup
+```shell
+pip install -r requirements.txt
+```
 
 How to run the code?
 - Upload the code files into the Google Colab
