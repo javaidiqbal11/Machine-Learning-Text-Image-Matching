@@ -23,3 +23,19 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
+## Datasets
+The project supports various datasets containing both text and image pairs for training and testing purposes. You can use standard datasets such as:
+
+- MS COCO
+- Flickr30k
+- Custom datasets
+Make sure to preprocess the dataset into the required format before feeding it to the model.
+
+## Models
+The repository contains the following models:
+
+- CNN for Image Encoding: Extracts features from input images.
+- RNN/LSTM for Text Encoding: Converts text descriptions into feature vectors.
+- Transformer Models: Supports transformer-based architectures for enhanced matching performance.
+- Similarity Matching: The final layer computes the cosine similarity between text and image embeddings to find the best match.
+
