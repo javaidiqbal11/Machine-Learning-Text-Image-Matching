@@ -39,3 +39,5 @@ The repository contains the following models:
 - Transformer Models: Supports transformer-based architectures for enhanced matching performance.
 - Similarity Matching: The final layer computes the cosine similarity between text and image embeddings to find the best match.
 
+## Contributing
+Contributions to this project are welcome. If you'd like to contribute, please fork the repository and submit a pull request.
