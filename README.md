@@ -29,6 +29,7 @@ The project supports various datasets containing both text and image pairs for t
 - MS COCO
 - Flickr30k
 - Custom datasets
+
 Make sure to preprocess the dataset into the required format before feeding it to the model.
 
 ## Models
